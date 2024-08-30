@@ -2,7 +2,7 @@
 
 _B. Srinivasan, K. Dunlap, S. Ahmed_
 
-AI is here and it is here to stay whether that thrills or scares us. The education sector stands at the precipice of a significant AI-driven transformation. AI-powered tutors, automated grading systems, and personalized learning platforms are expected to simplify processes, address individual student needs, and ultimately improve learning outcomes. Basically, it is being hailed as a miracle, and the bombardment of choices is overwhelming. We share our experience with select general platforms and educational AI that we have found helpful in engaging students.
+`AI is here and it is here to stay whether that thrills or scares us. The education sector stands at the precipice of a significant AI-driven transformation. AI-powered tutors, automated grading systems, and personalized learning platforms are expected to simplify processes, address individual student needs, and ultimately improve learning outcomes. Basically, it is being hailed as a miracle, and the bombardment of choices is overwhelming. We share our experience with select general platforms and educational AI that we have found helpful in engaging students.`
 
 **All** Major AI platforms offer unique capabilities that educators can leverage:
 
